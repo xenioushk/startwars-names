@@ -1,0 +1,30 @@
+{
+  "name": "startwars-names",
+  "version": "1.0.0",
+  "description": "starwars herors",
+  "main": "src/index.js",
+  "dependencies": {
+    "chai": "4.3.4"
+  },
+  "devDependencies": {
+    "mocha": "9.1.3",
+    "unique-random-array": "3.0.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xenioushk/startwars-names.git"
+  },
+  "keywords": [
+    "random",
+    "starwars"
+  ],
+  "author": "Md Mahbub Alam Khan <hkhan.cse@gmail.com> (https://bluewindlab.net/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xenioushk/startwars-names/issues"
+  },
+  "homepage": "https://github.com/xenioushk/startwars-names#readme"
+}
